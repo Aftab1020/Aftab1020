@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aftab Shaikh</h1>
 <h3 align="center">A passionate of Data Science from India</h3>
-<img align = 'center' alt = "coding" width = "400" src = https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png>
+<img align = "right" alt = "coding" width = "400" src = https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftab1020&label=Profile%20views&color=0e75b6&style=flat" alt="aftab1020" /> </p>
